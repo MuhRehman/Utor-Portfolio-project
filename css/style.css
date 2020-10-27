@@ -108,7 +108,8 @@ border: 2px solid red;
     
   }
   .btn-area .view-btn:hover  {
-    background-color: #20b9f5;
+    background-color: #0D3685;
+    border: 2px solid #0D3685;
   }
   .btn-area .contact-btn:focus {
     outline: 1px dotted;
