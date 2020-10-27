@@ -107,6 +107,9 @@ border: 2px solid red;
     border: 2px solid #00A8EA;
     
   }
+  .btn-area .view-btn:hover  {
+    background-color: #20b9f5;
+  }
   .btn-area .contact-btn:focus {
     outline: 1px dotted;
 
@@ -246,6 +249,7 @@ max-width: 745px;
   font-family: Proxima-Nova;
   font-weight: 700;
 }
+
 .btn-about {
   display: block;
    position: absolute;
@@ -254,6 +258,9 @@ max-width: 745px;
   border-radius: 5px;
   border: #00A8EA;
   color: #00A8EA;
+}
+.btn-about:hover {
+  background-color:rgb(233, 233, 233);
 }
 /* _____________________________________about________________________________________ */
 
@@ -442,6 +449,9 @@ font-weight: 700;
   border: none;
   margin-top: 22px;
 }
+.project-btn:hover {
+  background-color: #20b9f5;
+}
 .icon-elm:hover
 {  
    /* border: 2px solid red; */
@@ -548,6 +558,9 @@ font-weight: 700;
   padding: 12px 20px;
   border-radius: 5px;
   border: none;
+}
+.btn-service:hover {
+  background-color: #20b9f5;;
 }
 .card-body a {
   color: #0D3685;
@@ -656,6 +669,9 @@ font-weight: 700;
   padding-top: 20px;
 }
 
+.btn-area .aim-view-btn:hover {
+  background-color: rgb(233, 233, 233);
+}
 .btn-area .aim-view-btn {
   background-color: #ffffff;
   border-radius: 5px;
@@ -667,6 +683,9 @@ font-weight: 700;
 
 .btn-area  {
 margin-top: 42px;
+}
+.btn-area .aim-contact-btn:hover {
+  background-color: #12419e;
 }
 .btn-area .aim-contact-btn {
   border: 2px solid #ffffff;
@@ -711,6 +730,9 @@ color: #0D3685;
 font-size: 44px;
 font-family: Proxima-Nova;
 font-weight: 700;
+}
+.review-btn:hover {
+  background-color: #0db2f3;
 }
 .review-btn {
   background-color: #00A8EA;
