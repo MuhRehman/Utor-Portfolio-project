@@ -613,13 +613,13 @@ font-weight: 700;
 .slide {
   margin: 0px 5px;
   height: 93px;
-  background-color: rgb(255, 255, 255);
+
   
 }
 .customer-logos {
   display: flex;
 }
-.slide svg {
+.slide img {
   width: 179px;
  margin-top: 15px;
 }
