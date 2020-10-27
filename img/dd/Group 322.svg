@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="90" viewBox="0 0 60 90">
+  <g id="Group_322" data-name="Group 322" transform="translate(-147 -4720)">
+    <g id="Component_10_1" data-name="Component 10 – 1" transform="translate(148 4720)">
+      <text id="long-arrow-right" transform="translate(37 21)" fill="#0d3685" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome 5 Pro'" font-weight="300"><tspan x="0" y="0">long-arrow-right</tspan></text>
+      <text id="long-arrow-left" transform="translate(0 21)" fill="#0d3685" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome 5 Pro'" font-weight="300"><tspan x="0" y="0">long-arrow-left</tspan></text>
+      <text id="quote-right" transform="translate(2 83)" fill="#00a8ea" font-size="55" font-family="FontAwesome5Pro-Solid, 'Font Awesome 5 Pro'" opacity="0.3"><tspan x="0" y="0">quote-right</tspan></text>
+    </g>
+  </g>
+</svg>
